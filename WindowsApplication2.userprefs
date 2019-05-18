@@ -1,0 +1,16 @@
+﻿<Properties StartupConfiguration="{13A726D7-018F-448E-BB5B-05A7235A3507}|Default">
+  <MonoDevelop.Ide.ItemProperties.WindowsApplication2 PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WindowsApplication2/Module1.vb">
+    <Files>
+      <File FileName="WindowsApplication2/Module1.vb" Line="7" Column="21" />
+      <File FileName="WindowsApplication2/Form1.resx" Line="20" Column="66" />
+      <File FileName="WindowsApplication2/Form1.Designer.vb" Line="51" Column="16" />
+      <File FileName="WindowsApplication2/Form1.vb" Line="17" Column="40" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|x86" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
